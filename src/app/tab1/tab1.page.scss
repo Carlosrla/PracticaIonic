@@ -1,0 +1,39 @@
+.mi-clase-de-fondo {
+    background-color: bisque;
+   }
+   .mi-clase-de-texto {
+     font-size: 35px;
+     text-align: center;
+     color: black;
+     font-family:Cochin;
+   }
+   .mi-clase-de-texto1 {
+     font-size: 16px;
+     text-align: center;
+     color: rgb(19, 19, 19);
+     font-family:cursive;
+   }
+   .mi-contenedor-de-imagen {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: black;
+   }
+   .mi-imagen {
+     width: 800px;
+     height: 400px;
+   }
+   .boton1{
+     text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color:rgb(15, 15, 15);
+     border-radius: 8px; 
+     padding: 10px 20px;
+   }
+   .ion-list-container {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start;    
+    height: 50vh}
