@@ -12,8 +12,8 @@ export class Tab3Page {
   telefono: string = '';
   opcion1: boolean = false;
   opcion2: boolean = false;
-  opcion3: boolean = false; // Nueva opción
-  opcion4: boolean = false; // Nueva opción
+  opcion3: boolean = false;
+  opcion4: boolean = false; 
   mensaje: string = '';
 
   constructor(private toastController: ToastController) {}
